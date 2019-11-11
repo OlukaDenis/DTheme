@@ -59,4 +59,4 @@ If you are working on adding features, PRs, or bugfixes, this section should hel
 
 - [Denis Oluka](https://www.facebook.com/dennylucaz) on Facebook
 
-:winks:
+:wink:
