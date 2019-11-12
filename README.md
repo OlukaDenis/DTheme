@@ -27,16 +27,16 @@ This is a theme for [oh-my-zsh](https://ohmyz.sh/) best optimized for people who
 
   Then:
 
-  > `cd DTheme`
+  ```sh
+  cd DTheme
+  chmod +x install.sh
+  ./install.sh
+  ```
 
-- Copy the `DTheme.zsh-theme` located inside the DTheme folder
-
-- Paste it into the `~/.oh-my-zsh/themes/` located at your home directory
-
-- Edit the `~/.zshrc` and set;
-  `ZSH_THEME="DTheme"`
-- After you restart your machine
-- Boom :boom:: Enjoy your new experience with the DTheme
+- When prompted, locate the line that has `ZSH_THEME="some-other-theme"` and replace `some-other-theme` with `DTheme`.
+- Press `ctrl + x`
+- Then restart your machine.
+- Boom :boom:: Enjoy your new experience with the DTheme.
 
 # Contributing
 
